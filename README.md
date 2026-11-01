@@ -10,6 +10,6 @@
 1-6. C :\ 나오는지 확인
 
 1-7. 명령어 scp "옮기려는 파일경로" pjh@172.20.10.7:~/원하는 파일경로
-1-8. (ex. scp "C:\python_practice\py_CNN\CNNtest.py" pjh@172.20.10.7:~/project/)
+1-8. ex. scp "C:\python_practice\py_CNN\CNNtest.py" pjh@172.20.10.7:~/project/
 
 1-9. 라즈베리파이에서 확인
